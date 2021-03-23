@@ -17,4 +17,4 @@ Stack used:
 > It's nothing fancy
 
 Try it out:
-[Investment App](https://main.diulquj5p4og0.amplifyapp.com/)
+[Investment App](https://main.d3jdgrpweyi8a2.amplifyapp.com/)
